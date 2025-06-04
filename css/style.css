@@ -400,7 +400,7 @@ form input, form textarea {
     footer {   
         flex-direction: column;
         padding: calc(35px + 2em) 1em 1em;
-        background-image:url('.../images/patternsmall.png');
+        background-image:url('../images/patternsmall.png');
     }
     .socials {      
         font-size: 3em;
